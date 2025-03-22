@@ -1,2 +1,2 @@
-# SwathCare
+# SwasthCare
 IP Project
